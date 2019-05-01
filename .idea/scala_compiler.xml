@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ScalaCompilerConfiguration">
     <profile name="sbt 1" modules="documentaryprocedure_5080" />
-    <profile name="sbt 2" modules="play-scala-seed">
+    <profile name="sbt 2" modules="play-scala-seed,tramite-documentario">
       <option name="deprecationWarnings" value="true" />
       <option name="uncheckedWarnings" value="true" />
       <parameters>
